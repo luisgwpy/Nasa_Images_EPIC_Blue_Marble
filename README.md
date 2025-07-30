@@ -71,7 +71,17 @@ After running this project over the full dataset from **2015 to 2025**, the foll
 
 ### 🌐 Simulated Video Links
 
-- ▶️ **YouTube Video:** [Data Data no Mi](add_video)  
-- 📱 **Instagram Reel:** [@Luis_gwpy](add_video)
+- ▶️ **YouTube Video:** [Data Data no Mi - Youtube Channel - Video Result ](https://youtu.be/cm38riiXL-8)  
+
+
+### 🌐 Follow us in 
+
+[Github](https://github.com/luisgwpy)
+[Instagram](https://www.instagram.com/luis_gwpy/)
+[Medium](https://medium.com/@luis_gwpy)
+[TikTok](https://www.tiktok.com/@luis_gwpy)
+[LinkedIn](https://www.linkedin.com/in/luis-gwpy/)
+
+
 
 
